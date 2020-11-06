@@ -4,6 +4,10 @@
 	"displayName": "Tab to Space",
 	"description": "Convert tab to space.",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/takumisoft68/vscode-tab-to-space"
+	},
 	"engines": {
 		"vscode": "^1.50.0"
 	},
